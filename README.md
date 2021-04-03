@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @thetroubledbear
+- 👀 I’m interested in various types of projects
+- 🌱 I’m currently learning python and I am a beginner in programming 
